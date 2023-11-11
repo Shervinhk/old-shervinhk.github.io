@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I'm Shervin Hakimi. My interests lie at the intersection of problem-solving, mathematics, and tech. Born in Tehran and raised in its contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
+I'm Shervin Hakimi, combining a solid background in mathematics with practical machine learning applications. Born in Tehran and raised in its contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
 
 My professional journey spans designing algorithms to control wheelchairs using EEG signals, predicting mood relapses in bipolar patients in Prague, extending a mathematical model of the kidney through partial differential equations, and employing machine learning and deep learning to analyze health records of over 100,000 diabetic patients for early chronic kidney disease prediction.
 
