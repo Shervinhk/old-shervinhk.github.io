@@ -30,6 +30,6 @@ My professional journey spans designing algorithms to control wheelchairs using 
 
 I hold a Master's in Mathematics in Applied Mathematics from the University of Waterloo and a Bachelor's in Electrical Engineering with a minor in Mathematics from Sharif University of Technology. 
 
-Outside of mathematics and engineering, I enjoy learning new languages (currently fluent in 4), photography, travelling and reading. 
+Outside of mathematics and engineering, I enjoy learning new languages (currently fluent in English, German, Persian and French), photography, travelling and reading. 
 
 Feel free to reach out via email — I'm always open to interesting conversations and potential collaborations.
