@@ -28,7 +28,7 @@ I'm Shervin Hakimi. I enjoy using mathematics in practical machine learning appl
 
 My professional journey spans designing algorithms to control wheelchairs using EEG signals, predicting mood relapses in bipolar patients in Prague, extending a mathematical model of the kidney through partial differential equations, and employing machine learning and deep learning to analyze health records of over 100,000 diabetic patients for early chronic kidney disease prediction.
 
-I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
+I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo, a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
 
 Outside of mathematics and engineering, I enjoy learning new languages (fluent in German, Persian, English and French), photography, travelling and [reading](https://www.goodreads.com/user/show/13302370-shervin-hakimi).  
 
