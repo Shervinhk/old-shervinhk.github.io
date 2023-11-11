@@ -30,6 +30,6 @@ My professional journey spans designing algorithms to control wheelchairs using 
 
 I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
 
-Outside of mathematics and engineering, I enjoy learning new languages (fluent in German, Persian, English and French), photography, travelling and reading.  
+Outside of mathematics and engineering, I enjoy learning new languages (fluent in German, Persian, English and French), photography, travelling and [reading](https://www.goodreads.com/user/show/13302370-shervin-hakimi).  
 
 Feel free to reach out via email — I'm always open to interesting conversations and potential collaborations.
