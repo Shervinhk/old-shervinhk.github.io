@@ -24,12 +24,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I'm Shervin Hakimi. My passion lies at the intersection of problem-solving, mathematics, and technology. Born in Tehran and raised in its contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
+I'm Shervin Hakimi. My interests lie at the intersection of problem-solving, mathematics, and technology. Born in Tehran and raised in its contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
 
 My professional journey spans designing algorithms to control wheelchairs using EEG signals, predicting mood relapses in bipolar patients in Prague, extending a mathematical model of the kidney through partial differential equations, and employing machine learning and deep learning to analyze health records of over 100,000 diabetic patients for early chronic kidney disease prediction.
 
-I hold a Master's in Mathematics in Applied Mathematics from the University of Waterloo and a Bachelor's in Electrical Engineering with a minor in Mathematics from Sharif University of Technology. 
+I earned my Master’s in Applied Mathematics from the University of Waterloo and a Bachelor’s in Electrical Engineering and a minor in mathematics from Sharif University of Technology.
 
-Outside of mathematics and engineering, I enjoy learning new languages (currently fluent in English, German, Persian and French), photography, travelling and reading. I enjoy being on Goodreads and sharing my work on GitHub.  
+Outside of mathematics and engineering, I enjoy learning new languages, photography, travelling and reading. I enjoy being on Goodreads and sharing my work on GitHub.  
 
 Feel free to reach out via email — I'm always open to interesting conversations and potential collaborations.
