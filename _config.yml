@@ -73,11 +73,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: shervinhk # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: shervin_hakimi # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shervin-hakimi # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: WBfd9NYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -124,7 +124,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_nav_title: Technical Blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: A place where I write about technical stuff mostly
 permalink: /blog/:year/:title/
 
