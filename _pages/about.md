@@ -39,7 +39,7 @@ Feel free to reach out via [email](s3hakimi@uwaterloo.ca) — I'm always open to
 
 I'm Shervin Hakimi. I enjoy applying mathematics to build effective and practical machine-learning solutions. Born in Tehran and raised in contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
 
-Throughout my career, I've had the opportunity to apply my mathematical knowledge in the fields of machine learning and mathematical modelling. My projects have ranged from designing algorithms for EEG-operated wheelchairs to developing predictive models for chronic disease.
+Throughout my career, I've had the opportunity to apply my mathematical knowledge in the fields of machine learning and mathematical modelling. My projects have ranged from designing algorithms for EEG-operated wheelchairs to developing predictive models for chronic kidney disease.
 
 I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo, along with a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
 
