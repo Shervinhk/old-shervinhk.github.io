@@ -32,18 +32,18 @@ My professional journey spans several projects from designing algorithms to cont
 
 I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo, a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
 
-Outside of mathematics and engineering, I enjoy learning new languages (fluent in German, Persian, English and French), photography, travelling and [reading](https://www.goodreads.com/user/show/13302370-shervin-hakimi).  
-
+Outside of mathematics and engineering, I enjoy learning new languages (fluent in German, Persian, English and French), photography, travelling 
 Feel free to reach out via [email](s3hakimi@uwaterloo.ca) — I'm always open to interesting conversations and potential collaborations.
 -->
 
 
-I'm Shervin Hakimi. I enjoy using mathematics in practical machine-learning applications. Born in Tehran and raised in contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
+I'm Shervin Hakimi. I enjoy applying mathematics to build effective and practical machine-learning solutions. Born in Tehran and raised in contrasting landscapes—from a tranquil small town in the north to the dynamic capital.
 
-My professional journey has been rich with opportunities to apply my mathematical acumen in machine learning contexts. From developing algorithms that control wheelchairs using EEG signals to pioneering predictive models for chronic disease management, my work consistently bridges complex mathematics with real-world applications. These experiences not only showcase my technical skills but also my dedication to making a tangible impact through technology.
+Throughout my career, I've had the opportunity to apply my mathematical knowledge in the fields of machine learning and mathematical modelling. My projects have ranged from designing algorithms for EEG-operated wheelchairs to developing predictive models for chronic disease.
 
-With a Master’s in Applied Mathematics from the University of Waterloo and a Bachelor of Science in Electrical Engineering from Sharif University of Technology, my education has been pivotal in shaping my approach to machine learning. It's here that I learned to balance theoretical knowledge with practical problem-solving, a skill I bring to every project I undertake.
+I earned my Master’s in Mathematics (MMath) in Applied Mathematics from the University of Waterloo, along with a Bachelor of Science in Electrical Engineering and a minor in Mathematics from Sharif University of Technology.
 
-When not immersed in data and algorithms, my interests span learning new languages—I'm fluent in German, Persian, English, and French—and exploring the world through photography. These pursuits complement my professional life, providing new perspectives and a continual source of inspiration.
+My interests outside of mathematics and engineering are linguistics, learning new languages—I'm fluent in German, Persian, English, and French— photography, and [reading](https://www.goodreads.com/user/show/13302370-shervin-hakimi).  
 
-Feel free to reach out via email — I'm always open to interesting conversations and potential collaborations. Whether it’s a new project idea or a deep dive into the latest in machine learning, I’m here for it.
+
+Feel free to reach out via [email](s3hakimi@uwaterloo.ca) — I'm always open to interesting conversations and potential collaborations.
